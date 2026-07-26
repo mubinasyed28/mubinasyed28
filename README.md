@@ -1,8 +1,9 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70295&background=FFD0FF&width=435&lines=Hi+I'm+Mubina+%F0%9F%91%8B++" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=F70295&background=FFD0FF&width=230&lines=Hi+I'm+Mubina+%F0%9F%91%8B++" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&color=000000&background=FCD3FF&multiline=true&repeat=false&width=435&lines=Curious+by+nature.+Builder+by+choice." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&color=000000&background=FCD3FF&multiline=true&repeat=false&width=350&lines=Curious+by+nature.+Builder+by+choice." alt="Typing SVG" /></a>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&color=000000&background=FCD3FF&multiline=true&repeat=false&width=710&height=110&lines=I'm+a+curious+builder+who+loves+solving+real-world+problems+through+technology.;I'm+constantly+exploring+emerging+technologies%2C+experimenting+with+AI+tools%2C+;and+building+solutions+that+solve+real+problems.+Whether+it's+developing+;applications%2C+contributing+to+research+projects%2C+participating+in+hackathons%2C+;or+collaborating+with+startups%2C+I'm+always+eager+to+learn%2C+build%2C+and+grow." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=200&color=000000&background=FCD3FF00&multiline=true&repeat=false&height=125&lines=Currently+exploring%3A;%F0%9F%A4%96+Artificial+Intelligence;+%F0%9F%8C%90+Full+Stack+Development;%F0%9F%93%B1+Cross-Platform+Mobile+Apps+Development;%F0%9F%94%8D+Semantic+Search;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps" alt="Typing SVG" /></a>
 
 ## 💻 Languages
 [![Languages](https://skillicons.dev/icons?i=python,java,c,js,ts,html,css)](https://skillicons.dev)
