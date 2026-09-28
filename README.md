@@ -1,52 +1,184 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=F70295&background=FFD0FF&width=230&lines=Hi+I'm+Mubina+%F0%9F%91%8B++" alt="Typing SVG" /></a>
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&color=000000&background=FCD3FF&multiline=true&repeat=false&width=350&lines=Curious+by+nature.+Builder+by+choice." alt="Typing SVG" /></a>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&color=000000&background=FCD3FF&multiline=true&repeat=false&width=710&height=110&lines=I'm+a+curious+builder+who+loves+solving+real-world+problems+through+technology.;I'm+constantly+exploring+emerging+technologies%2C+experimenting+with+AI+tools%2C+;and+building+solutions+that+solve+real+problems.+Whether+it's+developing+;applications%2C+contributing+to+research+projects%2C+participating+in+hackathons%2C+;or+collaborating+with+startups%2C+I'm+always+eager+to+learn%2C+build%2C+and+grow." alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=200&color=000000&background=FCD3FF00&multiline=true&repeat=false&height=125&lines=Currently+exploring%3A;%F0%9F%A4%96+Artificial+Intelligence;+%F0%9F%8C%90+Full+Stack+Development;%F0%9F%93%B1+Cross-Platform+Mobile+Apps+Development;%F0%9F%94%8D+Semantic+Search;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps" alt="Typing SVG" /></a>
+<img src="./mubina-github-hero.png" alt="Mubina — AI / Backend / Full-Stack Developer" width="100%" />
 
-## 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,c,js,ts,html,css)](https://skillicons.dev)
+</div>
 
-## 🚀 Frameworks & Libraries
+<div align="center">
 
-<p align="center">
+### AI • Backend • Full-Stack • Product Engineering
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+Building intelligent systems that solve real-world problems.
 
-</p>
+</div>
 
-## 🗄️ Databases & Cloud
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase)](https://skillicons.dev)
+---
 
-## 🛠️ Tools & Platforms
+## About Me
 
-<p align="center">
+I'm a final-year Computer Engineering student and builder working at the intersection of **Artificial Intelligence, backend engineering, APIs, and product development**.
 
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=lightning&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Lovable-FF4F9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge" />
+I enjoy taking ideas from **concept → architecture → implementation → impact**, especially when the solution involves AI, automation, research, or data.
 
-</p>
+My recent work spans **LLM applications, RAG pipelines, semantic search, NLP, machine learning, computer vision, decision-support systems, and full-stack products**.
+
+> **Learn / Build / Iterate / Grow.**
+
+---
+
+## What I Build
+
+| Area | What I work with |
+|---|---|
+| 🤖 AI Engineering | LLM applications, AI agents, prompt engineering, AI product workflows |
+| 🧠 RAG & Search | Embeddings, semantic search, vector retrieval, FAISS, document pipelines |
+| 📊 Machine Learning | Classification, regression, XGBoost, model evaluation, prediction systems |
+| 💬 NLP | Text processing, BERT, spaCy, LLM-powered research and validation |
+| 👁️ Computer Vision | OpenCV, MediaPipe, CNNs, image processing |
+| ⚙️ Backend | Python, FastAPI, REST APIs, caching, data pipelines |
+| 🔌 API Engineering | Gemini, Tavily, NewsData, Google Sheets and other third-party integrations |
+| 🗄️ Data | MongoDB, vector stores, structured datasets |
+| 🚀 Product Engineering | Full-stack applications, startup prototypes, AI-native tools |
+| ☁️ Deployment | Git, GitHub, Vercel, Render, WSL, npm, pnpm |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`Python` `JavaScript` `SQL` `Dart`
+
+**AI / ML / NLP**
+
+`TensorFlow` `Keras` `PyTorch` `XGBoost` `OpenCV` `BERT` `spaCy` `MediaPipe` `NumPy` `PIL`
+
+**LLMs / RAG / Search**
+
+`Gemini` `LangChain` `FAISS` `Embeddings` `Semantic Search` `RAG` `Prompt Engineering` `AI Agents`
+
+**Backend / APIs**
+
+`FastAPI` `REST APIs` `MongoDB` `API Integration` `Caching` `Data Pipelines`
+
+**External APIs & Data Sources**
+
+`Gemini API` `Tavily API` `NewsData API` `Google Sheets API` `Clustro AI API`
+
+**Deployment / Tools**
+
+`Git` `GitHub` `Vercel` `Render` `WSL` `npm` `pnpm`
+
+---
+
+## Selected Projects
+
+### ◈ Cofoundr OS — AI Co-Founder
+
+An AI-native company-building operating system designed around persistent company context and intelligent decision support.
+
+**Core systems**
+
+- Conversational startup onboarding
+- Persistent company memory
+- RAG-powered knowledge retrieval
+- Semantic document search
+- AI co-founder chat
+- Startup health analysis
+- Competitor intelligence
+- Decision simulation
+- Market and news research
+- ML-based prediction
+
+**Stack:** `Python` `FastAPI` `MongoDB` `FAISS` `Gemini` `LangChain` `XGBoost` `APIs`
+
+---
+
+### ◈ Startup Idea Validator
+
+An NLP-focused research system for investigating startup ideas, existing products, competitors, market signals, and relevant information sources.
+
+**Focus:** `NLP` `LLMs` `Semantic Search` `Research Automation` `APIs`
+
+---
+
+### ◈ Decision Simulator
+
+A company-context-first decision system that combines internal company knowledge with external intelligence.
+
+```text
+Decision
+   ↓
+Investigate
+   ↓
+Company Context + Market + News + Competitors
+   ↓
+Structure
+   ↓
+Predict
+   ↓
+Explain
+   ↓
+Compare
+   ↓
+Decide
+   ↓
+Act
+   ↓
+Learn
+```
+
+---
+
+### ◈ Image Colorization
+
+A computer-vision project for adding color to grayscale images using deep learning.
+
+**Stack:** `Python` `OpenCV` `TensorFlow` `Keras` `CNN`
+
+---
+
+### ◈ ISL Translation System
+
+A sign-language translation application using computer vision and machine-learning techniques to interpret Indian Sign Language gestures.
+
+**Stack:** `Python` `OpenCV` `MediaPipe` `Deep Learning`
+
+---
+
+## Engineering Interests
+
+```text
+Artificial Intelligence
+Generative AI
+Large Language Models
+RAG Systems
+Semantic Search
+Machine Learning
+Natural Language Processing
+Computer Vision
+Backend Engineering
+API Architecture
+Full-Stack Development
+AI Product Development
+Startup Technology
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mubinasyed28&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubinasyed28&hide_border=true&theme=transparent" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Turning ideas into intelligent products.
+
+</div>
